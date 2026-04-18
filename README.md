@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Samuel Espiño and I'm a helath engineering student, looking for helping healthcare professionals and improving people lives.</p>
+<p align="left">My name is Samuel Espiño and I'm a health engineering student, looking for helping healthcare professionals and improving people lives.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Linking engineering and health <br>🐍 Python enjoyer<br>🎲 Exploring beyond limits: Actually prying Kali Linux</p>
+<p align="left">✨ Linking engineering and health <br>🐍 Python enjoyer<br>🎲 Exploring beyond limits: Kali linux, AWS</p>
 
 ###
 
